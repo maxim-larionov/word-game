@@ -10,3 +10,4 @@ class Trigger:
   def update(self):
     if self.events[self.key] == self.event:
       self.mus.play(*self.kwargs)
+      del events[self.key]
