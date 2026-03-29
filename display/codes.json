@@ -1,1 +1,1 @@
-{"clear code": "\u001b[H\u001b[2J\u001b[3J"}
+{"clear code": "\u001b[H\u001b[2J\u001b[3J", "cursor off": "\u001b[?25l", "cursor on": "\u001b[?25h"}
