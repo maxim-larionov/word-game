@@ -7,6 +7,28 @@
 <pre>  Music in .mp3 format.</pre>
 <pre>  Some code.</pre>
 
+### You must install:
+-pygame
+
+## OR
+
+### use pixi, this is pixi.toml:
+
+[workspace]
+channels = ["conda-forge"]
+name = "word-end"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.3,<3.15"
+7zip = ">=26.0,<27"
+
+[pypi-dependencies]
+pygame-ce = ">=2.5.7, <3"
+
 <h2>I will thank to human, who can give any help, I strongly believe that we can do anything!</h2>
 My Gmail: maxim42sana@gmail.com
 
