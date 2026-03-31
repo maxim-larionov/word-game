@@ -30,6 +30,6 @@ python = ">=3.14.3,<3.15"
 pygame-ce = ">=2.5.7, <3"
 
 <h2>I will thank to human, who can give any help, I strongly believe that we can do anything!</h2>
-My Gmail: maxim42sana@gmail.com
+My Gmail: maxim42sana@mail.ru
 
 <sub>please, add star to make project popular</sub>
