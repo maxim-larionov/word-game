@@ -7,8 +7,13 @@
 <pre>  Music in .mp3 format.</pre>
 <pre>  Some code for project.</pre>
 
-### You must install:
--pygame
+### You must run (on macOS):
+cd word-game  
+
+python3 -m venv .venv  
+source .venv/bin/activate  
+
+cat to_install.txt | xargs pip install  
 
 ## OR
 
