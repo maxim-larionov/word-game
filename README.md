@@ -8,6 +8,8 @@
 <pre>  Some code for project.</pre>
 
 ### You must run (on macOS):
+
+git clone https://github.com/maxim-larionov/word-game  
 cd word-game  
 
 python3 -m venv .venv  
