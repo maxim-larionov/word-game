@@ -14,5 +14,5 @@ class Printer:
   green = (0, 255, 0)
   blue = (0, 0, 255)
   def rgb_print(text, *rgb):
-    print('\033[38;2;{};{};{}m%s\033[0m'.format(rgb) % text)
+    print('\033[38;2;{};{};{}m%s\033[0m'.format(*rgb) % text)
     
