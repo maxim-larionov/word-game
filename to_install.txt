@@ -1,1 +1,2 @@
 pygame-ce==2.5.7
+pynput==12.1
