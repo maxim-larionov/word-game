@@ -16,7 +16,7 @@ class Agent(Listener):
    try:
       print('It\'s press!')
       Event.objs[key]()
-   except:
+   except KeyError:
       print('Key not found.')
 
   def on_release(self, key):
