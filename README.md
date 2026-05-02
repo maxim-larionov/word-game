@@ -34,6 +34,7 @@ python = ">=3.14.3,<3.15"
 
 [pypi-dependencies]
 pygame-ce = ">=2.5.7, <3"
+punput = ">=12.1, <13"
 </code>
 
 <h2>I will thank to human, who can give any help, I strongly believe that we can do anything!</h2>
